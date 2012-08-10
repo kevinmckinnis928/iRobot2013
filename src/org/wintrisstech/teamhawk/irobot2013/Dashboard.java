@@ -1,7 +1,5 @@
 package org.wintrisstech.teamhawk.irobot2013;
 
-import org.wintrisstech.irobot.ioio.R;
-
 import android.app.Activity;
 import android.content.Intent;
 import android.os.Bundle;

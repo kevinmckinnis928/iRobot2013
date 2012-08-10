@@ -4,7 +4,7 @@
     android:layout_height="match_parent"
     android:orientation="horizontal" >
 
-     <EditText android:id="@+id/edit_message"title_activity_display_messagetitle_activity_display_messagetitle_activity_display_messagetitle_activity_display_messagetitle_activity_display_messagetitle_activity_display_messagetitle_activity_display_messagetitle_activity_display_messagetitle_activity_display_messagetitle_activity_display_messageMy MessageMy MessageMy MessageMy MessageMy MessageMy MessageMy Message
+     <EditText android:id="@+id/edit_message"
         android:layout_width="0dip"
         android:layout_height="wrap_content"
         android:layout_weight="1"
